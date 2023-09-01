@@ -1,0 +1,9 @@
+{
+  "name": "strapi4-ftp-provider-bugfix",
+  "version": "1.0.5",
+  "description": "bugfix for BaptisteAg/strapi4-ftp-provider",
+  "main": "index.js",
+  "dependencies": {
+    "strapi4-ftp-provider": "^1.0.5"
+  }
+}
