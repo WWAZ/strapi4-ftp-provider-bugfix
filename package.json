@@ -4,6 +4,8 @@
   "description": "bugfix for BaptisteAg/strapi4-ftp-provider",
   "main": "index.js",
   "dependencies": {
+    "basic-ftp": "^5.0.2",
+    "stream": "^0.0.2",
     "strapi4-ftp-provider": "^1.0.5"
   }
 }
